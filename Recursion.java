@@ -1,4 +1,4 @@
-class Regression {
+class Recursion {
 int a=0;
      void Res() {
            if (a<=100) {
@@ -8,7 +8,7 @@ int a=0;
            }
 }
  public static void main(String[] args) {
-         Regression loop=new Regression();
+         Recursion loop=new Recursion();
          loop.Res();
 }
 }
